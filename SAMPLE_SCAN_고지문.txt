@@ -1,0 +1,71 @@
+Open Source Software Notice
+
+==============================================================================
+
+A portion of this [COMPANY_NAME] product contains open source software, which is used and distributed in accordance with the specific license under which the open source software is distributed. A list of such open source software and the corresponding license terms is as follows:
+
+acorn-loose
+https://github.com/acornjs/acorn
+copyright
+MIT License
+----------------
+neo-async
+https://github.com/suguru03/neo-async
+• Suguru Motegi (2014-2018)
+• Caolan McMahon
+MIT License
+----------------
+None
+
+copyright
+Not Applicable
+----------------
+react-dom
+https://github.com/ook/react
+• Meta Platforms, Inc. and affiliates
+MIT License
+----------------
+react-server-dom-parcel
+https://github.com/ook/react
+• Meta Platforms, Inc. and affiliates
+MIT License
+----------------
+react-server-dom-turbopack
+https://github.com/ook/react
+• Meta Platforms, Inc. and affiliates
+MIT License
+----------------
+react-server-dom-webpack
+https://react-server-dom-webpack.org
+copyright
+MIT License
+----------------
+react
+https://react.org
+copyright
+MIT License
+----------------
+scheduler
+https://github.com/ook/react
+copyright
+MIT License
+----------------
+webpack-sources
+https://github.com/webpack/webpack-sources
+copyright
+MIT License
+
+=============================================================================
+MIT License
+
+MIT License
+
+Copyright (c) <year> <copyright holders>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
